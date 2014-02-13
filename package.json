@@ -1,6 +1,6 @@
 {
   "name": "up7niu",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "lib/up7niu.js",
   "description": "Upload file to qiniu in command line",
   "homepage": "https://github.com/lyuehh/up7niu",
@@ -22,7 +22,6 @@
   "bin": {
     "up7": "./bin/cli.js"
   },
-  "files": [],
   "keywords": ["qiniu", "upload", "cloud"],
   "devDependencies": {
     "grunt-contrib-jshint": "~0.7.0",
